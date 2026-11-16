@@ -106,7 +106,7 @@ jobs:
 6. **Description**에 다음을 입력합니다.
 
     ```plaintext
-    우리 조직에서는 함수와 메서드에 도움이 되는 경우 TSDoc 문서 주석을 포함하도록 요구합니다. 안타깝게도 최근 업데이트에서 이 표준이 지켜지지 않았습니다. 동작을 명확히 하는 경우 문서 주석이 포함되도록 기존 코드를 업데이트해야 합니다.
+    Our organization has a requirement that functions and methods include TSDoc doc comments where helpful. Unfortunately, recent updates haven't followed this standard. We need to update the existing code to ensure doc comments are included where they clarify behavior.
     ```
 
 7. **Create**를 선택하여 이슈를 만듭니다.

@@ -46,7 +46,7 @@ Copilot CLI에서 스킬을 직접 호출하거나 자연어로 요청할 수 �
 2. 다음 프롬프트를 입력합니다.
 
    ```plaintext
-   quality-checks 스킬을 실행해 단위 테스트, 린트, 타입 검사를 수행해 주세요.
+   Run the quality-checks skill for unit tests, lint, and type checks.
    ```
 
 3. 마지막에 표시되는 보고서를 살펴봅니다.
@@ -79,7 +79,7 @@ Copilot CLI에서 스킬을 직접 호출하거나 자연어로 요청할 수 �
 2. 이전과 동일한 프롬프트를 입력합니다.
 
    ```plaintext
-   quality-checks 스킬을 실행해 단위 테스트, 린트, 타입 검사를 수행해 주세요.
+   Run the quality-checks skill for unit tests, lint, and type checks.
    ```
 
 3. 마지막에 표시되는 보고서를 살펴보고 첫 번째 보고서와 비교합니다.
